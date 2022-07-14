@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrancescoNicotra/TutorialReact/static/css/main.b10ce008.css",
+    "main.js": "/FrancescoNicotra/TutorialReact/static/js/main.b15dc443.js",
+    "index.html": "/FrancescoNicotra/TutorialReact/index.html",
+    "main.b10ce008.css.map": "/FrancescoNicotra/TutorialReact/static/css/main.b10ce008.css.map",
+    "main.b15dc443.js.map": "/FrancescoNicotra/TutorialReact/static/js/main.b15dc443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.b15dc443.js"
+  ]
+}
